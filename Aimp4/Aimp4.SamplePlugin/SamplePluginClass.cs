@@ -1,7 +1,7 @@
 using System.Runtime.InteropServices;
 using Aimp4.Api;
 
-namespace Aimp4.SamplePlugin
+namespace Aimp4
 {
     [Guid("635F3A94-643F-4849-B2B8-6D8A5AE49603")]
     public class SamplePluginClass: IAIMPPlugin
