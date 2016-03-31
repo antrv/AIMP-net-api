@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aimp4.Api", "Aimp4.Api\Aimp4.Api.csproj", "{E7A11B85-82AC-4DC8-B799-090D20107788}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aimp4.SamplePlugin", "Aimp4.SamplePlugin\Aimp4.SamplePlugin.csproj", "{86C51325-3F37-46F8-BCB5-52232344B937}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E7A11B85-82AC-4DC8-B799-090D20107788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7A11B85-82AC-4DC8-B799-090D20107788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7A11B85-82AC-4DC8-B799-090D20107788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C51325-3F37-46F8-BCB5-52232344B937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C51325-3F37-46F8-BCB5-52232344B937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C51325-3F37-46F8-BCB5-52232344B937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C51325-3F37-46F8-BCB5-52232344B937}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
